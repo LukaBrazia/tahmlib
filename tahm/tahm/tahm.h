@@ -40,8 +40,6 @@ private:
 	public:
 		SDL_Window* SDLwindow;
 
-	public:
-
 		// initialize a window, pass a reference inside the SDLwindow
 		void init(void);
 
